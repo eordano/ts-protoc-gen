@@ -1,4 +1,6 @@
-## 0.11.3-pre
+## 0.11.3
+
+* Update web tests and more dependencies
 
 ## 0.11.2
 
